@@ -67,6 +67,12 @@ Open your browser and navigate to `http://localhost:8501` to use the recommendat
 
 ---
 
+## Sample Output
+![main - Google Chrome 31-03-2025 16_47_58](https://github.com/user-attachments/assets/46343035-4f73-474a-b0b2-cc543e91e834)
+![Movie Recommender System 🎥 - Google Chrome 31-03-2025 17_28_04](https://github.com/user-attachments/assets/013b19fc-3f38-4002-b12b-5f7846102d10)
+
+---
+
 ## ⚙️ How It Works
 1. **Data Cleaning and Model Creation:**  
    - The Jupyter Notebook in the `Dataset` folder preprocesses the movie data.
