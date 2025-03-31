@@ -3,6 +3,10 @@
 
 This is a **Movie Recommendation System** built using **Streamlit** and **Python**. It allows users to select a movie and get five similar movie recommendations based on a similarity score.
 
+## 🌐 Live Demo
+🔥 You can access the app directly using this link:  
+[🎬 Movie Recommendation System](https://mrs-mohanraj.streamlit.app/)
+
 ---
 
 ## 🚀 Features
@@ -70,6 +74,18 @@ Open your browser and navigate to `http://localhost:8501` to use the recommendat
 ## Sample Output
 ![main - Google Chrome 31-03-2025 16_47_58](https://github.com/user-attachments/assets/46343035-4f73-474a-b0b2-cc543e91e834)
 ![Movie Recommender System 🎥 - Google Chrome 31-03-2025 17_28_04](https://github.com/user-attachments/assets/013b19fc-3f38-4002-b12b-5f7846102d10)
+
+---
+### 🌐 Streamlit Deployment
+If you want to deploy this app to **Streamlit Cloud**:
+ - Go to: Streamlit
+ - Sign in with GitHub.
+ - Click **"New app"** → Select your repository.
+ - Choose the branch (main) and the file (main.py).
+ - Click **"Deploy"**.
+
+✅ Your app will be live at:
+https://your-username.streamlit.app/
 
 ---
 
